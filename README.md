@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/FAROOQkhan10/FarooqKhan10/main/2000_600px.gif"/>
+
 <h1 align="center">Hi 👋, I'm Mohammad Farooq</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
