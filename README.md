@@ -1,32 +1,63 @@
-<!-- <img align="center" src="https://raw.githubusercontent.com/FAROOQkhan10/FarooqKhan10/main/2000_600px.gif"/> -->
-
 <h1 align="center">Hi 👋, I'm Mohammad Farooq</h1>
-<!-- <h3 align="center">A passionate Android developer from India</h3> -->
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
+<div align="center">
+    
+Hey there! 👋 I'm a passionate backend developer who loves crafting robust software solutions that actually make a difference. With over 2 years in the trenches building enterprise-level applications, I've developed a real appreciation for clean, maintainable code that stands the test of time. 💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooqkhan10&label=Profile%20views&color=0e75b6&style=flat" alt="farooqkhan10" /> </p>
+My journey has been all about Java ☕ and the Spring Boot ecosystem – it's where I feel most at home. I thrive on architecting scalable microservices 🏗️, optimizing database queries 🗃️, and ensuring everything runs smoothly under pressure. Whether it's implementing complex business logic with Hibernate, fine-tuning multithreaded operations ⚡, or designing REST APIs that developers actually enjoy using 🚀, I'm always up for the challenge.
 
-<!-- - 💬 Ask me about **Android , DSA** -->
+Working in Agile teams 🤝 has taught me that great software isn't just about the code – it's about collaboration, continuous learning 📚, and delivering value that users can rely on. I'm constantly exploring new ways to make systems more secure 🔒, performant ⚡, and scalable 📈.
 
-- 📫 How to reach me **farooq208019@gmail.com**
+When I'm not debugging 🐛 or refactoring, you'll probably find me experimenting with new technologies 🔍, solving coding challenges on LeetCode 🧩, or working on personal projects that push my boundaries 💡. I believe in writing code that tells a story and building systems that grow with the business. 🌱
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-farooq-a40b891b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-farooq-a40b891b3" height="30" width="40" /></a>
-<a href="https://instagram.com/mohd.farooq4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd.farooq4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/c_1901640100170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="c_1901640100170" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mr_xlr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_xlr8" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mr_xlr8/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mr_xlr8/practice" height="30" width="40" /></a>
-</p>
+<div align="center">
+    <h2>🌐 Socials</h2>
+    <a href="https://instagram.com/khan.mohd_09"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/mohammad-farooq-a40b891b3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="https://youtube.com/@CodeZipper12"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+    <a href="mailto:farooq208019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com/mr_xlr8/"><img src="https://img.shields.io/badge/LeetCode-444F5A?style=flat&logo=LeetCode&logoColor=#d16c06" /></a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   </p>
+<div align="center">
+    <h1>💻 Tech Stack</h1>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farooqkhan10&show_icons=true&locale=en&layout=compact" alt="farooqkhan10" /></p>
+<div align="center">
+    <h1>📊 GitHub Stats</h1>
+    <br>
+    <a href="https://github.com/FAROOQkhan10"><img src="https://github-readme-stats.vercel.app/api?username=FAROOQkhan10&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" title="FAROOQkhan10's GitHub Stats" height="200"/></a>
+    <br>
+    <br>
+    <a href="https://github.com/FAROOQkhan10"><img src="https://nirzak-streak-stats.vercel.app/?user=FAROOQkhan10&theme=vue-dark&hide_border=false" title="FAROOQkhan10's GitHub Stats" height="200"/></a>
+    <br>
+    <br>
+    <a href="https://github.com/FAROOQkhan10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAROOQkhan10&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" title="FAROOQkhan10's Top Languages" height="200"/></a>
+    <br><br>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=farooqkhan10&show_icons=true&locale=en" alt="farooqkhan10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farooqkhan10&" alt="farooqkhan10" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=FAROOQkhan10&icon=0&color=0)](https://visitcount.itsvg.in)
