@@ -1,8 +1,8 @@
 <h1 align="center">🏄‍♂️ Mohammad Farooq</h1>
 
-Hey there! 👋 I'm a passionate backend developer who loves crafting robust software solutions that actually make a difference. With over 2+ years in the trenches building enterprise-level applications, I've developed a real appreciation for clean, maintainable code that stands the test of time. 💻
+Hey there! 👋 I'm a passionate backend developer who loves crafting robust software solutions that actually make a difference. With over 2+ years in  building enterprise-level applications, I've developed a real appreciation for clean, maintainable code that stands the test of time. 💻
         <br><br>
-        My journey has been all about Java ☕ and the Spring Boot ecosystem – it's where I feel most at home. I thrive on architecting scalable microservices 🏗️, optimizing database queries 🗃️, and ensuring everything runs smoothly under pressure. Whether it's implementing complex business logic with Hibernate, fine-tuning multithreaded operations ⚡, or designing REST APIs that developers actually enjoy using 🚀, I'm always up for the challenge.
+        My journey has been all about Java ☕ and the Spring Boot ecosystem – it's where I feel most at home. I thrive on architecting scalable microservices 🏗️, optimizing database queries 🗃️, and ensuring everything runs smoothly under pressure. Whether it's implementing complex business logic with Hibernate or designing REST APIs that developers actually enjoy, I'm always up for the challenge.
         <br><br>
         Working in Agile teams 🤝 has taught me that great software isn't just about the code – it's about collaboration, continuous learning 📚, and delivering value that users can rely on. I'm constantly exploring new ways to make systems more secure 🔒, performant ⚡, and scalable 📈.
         <br><br>
