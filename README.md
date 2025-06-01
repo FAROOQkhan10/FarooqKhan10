@@ -47,16 +47,10 @@ Hey there! 👋 I'm a passionate backend developer who loves crafting robust sof
 </div>
 
 <div align="center">
-    <h1>📊 GitHub Stats</h1>
+    <h1>📊 Stats</h1>
     <br>
     <a href="https://github.com/FAROOQkhan10"><img src="https://github-readme-stats.vercel.app/api?username=FAROOQkhan10&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" title="FAROOQkhan10's GitHub Stats" height="200"/></a>
-    <br>
-    <br>
-    <a href="https://github.com/FAROOQkhan10"><img src="https://nirzak-streak-stats.vercel.app/?user=FAROOQkhan10&theme=vue-dark&hide_border=false" title="FAROOQkhan10's GitHub Stats" height="200"/></a>
-    <br>
-    <br>
-    <a href="https://github.com/FAROOQkhan10"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAROOQkhan10&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" title="FAROOQkhan10's Top Languages" height="200"/></a>
-    <br><br>
+   
 </div>
 
 ---
