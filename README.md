@@ -2,13 +2,7 @@
 
 <div align="center">
     
-Hey there! 👋 I'm a passionate backend developer who loves crafting robust software solutions that actually make a difference. With over 2 years in the trenches building enterprise-level applications, I've developed a real appreciation for clean, maintainable code that stands the test of time. 💻
-
-My journey has been all about Java ☕ and the Spring Boot ecosystem – it's where I feel most at home. I thrive on architecting scalable microservices 🏗️, optimizing database queries 🗃️, and ensuring everything runs smoothly under pressure. Whether it's implementing complex business logic with Hibernate, fine-tuning multithreaded operations ⚡, or designing REST APIs that developers actually enjoy using 🚀, I'm always up for the challenge.
-
-Working in Agile teams 🤝 has taught me that great software isn't just about the code – it's about collaboration, continuous learning 📚, and delivering value that users can rely on. I'm constantly exploring new ways to make systems more secure 🔒, performant ⚡, and scalable 📈.
-
-When I'm not debugging 🐛 or refactoring, you'll probably find me experimenting with new technologies 🔍, solving coding challenges on LeetCode 🧩, or working on personal projects that push my boundaries 💡. I believe in writing code that tells a story and building systems that grow with the business. 🌱
+Hey there! 👋 I'm a passionate backend developer who loves crafting robust software solutions that actually make a difference. With over 2 years in the trenches building enterprise-level applications, I've developed a real appreciation for clean, maintainable code that stands the test of time. 💻 My journey has been all about Java ☕ and the Spring Boot ecosystem – it's where I feel most at home. I thrive on architecting scalable microservices 🏗️, optimizing database queries 🗃️, and ensuring everything runs smoothly under pressure. Whether it's implementing complex business logic with Hibernate, fine-tuning multithreaded operations ⚡, or designing REST APIs that developers actually enjoy using 🚀, I'm always up for the challenge. Working in Agile teams 🤝 has taught me that great software isn't just about the code – it's about collaboration, continuous learning 📚, and delivering value that users can rely on. I'm constantly exploring new ways to make systems more secure 🔒, performant ⚡, and scalable 📈. When I'm not debugging 🐛 or refactoring, you'll probably find me experimenting with new technologies 🔍, solving coding challenges on LeetCode 🧩, or working on personal projects that push my boundaries 💡. I believe in writing code that tells a story and building systems that grow with the business. 🌱
 </div>
 
 <div align="center">
