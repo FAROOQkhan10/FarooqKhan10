@@ -118,7 +118,7 @@ I'm an **iOS developer** with **2.5+ years of experience** building and moderniz
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=FAROOQkhan10&style=for-the-badge&color=0D96F6&label=PROFILE+VIEWS" />
+<a href="https://hits.sh/github.com/FAROOQkhan10/"><img src="https://hits.sh/github.com/FAROOQkhan10.svg?style=for-the-badge&label=Profile+Views&color=0D96F6&labelColor=1C1C1E" alt="Profile views" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D96F6,100:F05138&height=120&section=footer" width="100%" />
